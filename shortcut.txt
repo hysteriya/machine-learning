@@ -1,0 +1,6 @@
+ss: win+shift+s
+half screen: win+ left arrow
+virtual destop: win+crtl+d
+plain text:crtl+shift+v
+custom shortcuts
+https://www.youtube.com/watch?v=hZrYjnOD7Sw
